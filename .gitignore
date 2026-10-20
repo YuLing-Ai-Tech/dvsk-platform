@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.csv
