@@ -14,8 +14,8 @@
 
 ## Gate status
 
-- M05-01 independent Windows/WSL2 reproduction: pending
-- M05-04 legacy mapping and deployment boundary: pending
+- M05-01 independent Windows/WSL2 reproduction: pending on the new public clones
+- M05-04 legacy mapping and deployment boundary: proposed in Issue #1; awaiting Architect approval
 - M1 executable contracts and generated JSON Schema: not started
 
 This manifest records repository facts, not production or deployment readiness.
